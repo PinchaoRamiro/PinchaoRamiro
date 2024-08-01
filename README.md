@@ -6,7 +6,6 @@
 
 - 🌱 Actualmente, estoy aprendiendo y mejorando mis habilidades en **Next.js** y **NestJS**.
 - 🚀 Siempre estoy buscando nuevas tecnologías y metodologías para mejorar mi flujo de trabajo.
-- 📝 Me encanta compartir conocimientos y contribuir a la comunidad de desarrolladores.
 
 ## Habilidades Técnicas
 
