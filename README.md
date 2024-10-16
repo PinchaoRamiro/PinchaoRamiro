@@ -24,7 +24,7 @@
 
 ## Proyectos Destacados
 
-### [Proyecto 1: Social Network App](https://github.com/PinchaoRamiro/social-network-app)
+### [Proyecto 1: Social Network App](https://github.com/PinchaoRamiro/social-network-app)](https://github.com/FullStack-Elite-Bootcamp-IV/social-media-API)
 Desarrollo de una aplicación de red social full stack utilizando **Next.js** y **NestJS**. Incluye autenticación, chat en tiempo real, y una interfaz de usuario moderna.
 
 ### [Proyecto 2: API REST de Películas](https://github.com/PinchaoRamiro/movie-api)
