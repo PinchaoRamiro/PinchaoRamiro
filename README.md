@@ -1,25 +1,25 @@
 # Hola, soy Ramiro Pinchao 👋
 
-¡Bienvenido a mi perfil aoy un desarrollador web apasionado por crear soluciones innovadoras y funcionales. Aquí encontrarás algunos de mis proyectos más destacados y podrás conocer más sobre mis habilidades y experiencia.
+¡Soy un desarrollador web apasionado por la programación y el aprendizaje. Aquí encontrarás algunos de mis proyectos más destacados y podrás conocer más sobre mis habilidades y experiencia.
 
 ## Acerca de Mí
 
-- 🌱 Actualmente, estoy aprendiendo y mejorando mis habilidades en programción en el lado del backend.
+- 🌱 Actualmente, estoy aprendiendo y mejorando mis habilidades en programción en el lado del Backend.
 - 🚀 Siempre estoy buscando nuevas tecnologías y metodologías para mejorar mi flujo de trabajo.
 
 ## Habilidades Técnicas
 
 ### Lenguajes y Tecnologías:
 - **Frontend**: HTML5, CSS3 (Tailwind CSS, Sass), JavaScript, TypeScript, React, Next.js
-- **Backend**: Node.js, Express, NestJS, REST APIs.
-- **Bases de Datos**: PostgreSQL, MySQL, TypeORM.
+- **Backend**: Node.js, Express, NestJS, Java, Go (gin y echo).
+- **Bases de Datos**: PostgreSQL, MySQL.
 - **Control de Versiones**: Git, GitHub
-- **Otras Herramientas**: Docker, AWS, Vite, Webpack, NPM, Yarn, Bun
+- **Otras Herramientas**: Docker, AWS, Vite, Webpack, NPM, Yarn, Bun, TypeORM, GORM, Sequelize.
 
 ### Metodologías y Buenas Prácticas:
 - **Metodologías Ágiles**: Scrum
-- **Patrones de Diseño**: SOLID, UML
-- **Diseño UX/UI**: Figma, mejores prácticas
+- **Patrones de Diseño**: UML, Modelo Vista Controlador, Capas y Builder.
+- **Diseño UX/UI**: Figma.
 - **Seguridad Web**: HTTPS, CORS, JWT, OAuth
 
 
