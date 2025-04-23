@@ -1,6 +1,6 @@
 # Hola, soy Ramiro Pinchao 👋
 
-¡Soy un desarrollador web apasionado por la programación y el aprendizaje. Aquí encontrarás algunos de mis proyectos más destacados y podrás conocer más sobre mis habilidades y experiencia.
+Soy un desarrollador web apasionado por la programación y el aprendizaje. Aquí encontrarás algunos de mis proyectos más destacados y podrás conocer más sobre mis habilidades y experiencia.
 
 ## Acerca de Mí
 
